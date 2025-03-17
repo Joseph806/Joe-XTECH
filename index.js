@@ -83,7 +83,7 @@ async function start() {
                     const msg = await store.loadMessage(key.remoteJid, key.id);
                     return msg.message || undefined;
                 }
-                return { conversation: "popkid whatsapp user bot" };
+                return { conversation: "JOE-X whatsapp user bot" };
             }
         });
 
@@ -95,16 +95,17 @@ async function start() {
                 }
             } else if (connection === 'open') {
                 if (initialConnection) {
-                    console.log(chalk.green("Popkid Xtech Connected"));
+                    console.log(chalk.green("JOE Xtech Connected"));
             Matrix.sendMessage(Matrix.user.id, { 
-                image: { url: "https://files.catbox.moe/w5xf3f.jpg" }, 
+                image: { url: "https://files.catbox.moe/bc70kx.jpg" }, 
                 caption: `╭─────────────━┈⊷
-│ *ᴘᴏᴘᴋɪᴅ xᴛᴇᴄʜ*
+│ *JOE xᴛᴇᴄʜ*
 ╰─────────────━┈⊷
 
 ╭─────────────━┈⊷
 │ *ʙᴏᴛ ᴄᴏɴɴᴇᴄᴛᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ*
 │ *ᴘʟᴇᴀsᴇ ғᴏʟʟᴏᴡ ᴜs ʙᴇʟᴏᴡ*
+> ENJOY JOE BOT
 ╰─────────────━┈⊷
 
 > *ᴍᴀᴅᴇ ʙʏ ᴘᴏᴘᴋɪᴅ*`
@@ -168,7 +169,7 @@ async function init() {
 init();
 
 app.get('/', (req, res) => {
-    res.send('am popkid bot');
+    res.send('am JOE bot');
 });
 
 app.listen(PORT, () => {
@@ -176,5 +177,5 @@ app.listen(PORT, () => {
 });
 
 
-// updated by popkid
+// updated by JOSEPH 
 

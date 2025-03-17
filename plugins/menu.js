@@ -68,9 +68,9 @@ const test = async (m, Matrix) => {
   if (validCommands.includes(cmd)) {
     const str = `
 ╭───━═━═━⊷ 
-🤖 𝗕𝗢𝗧 𝗡𝗔𝗠𝗘: *_ʙᴇʀᴀ ᴛᴇᴄʜ ʙᴏᴛ_*
+🤖 𝗕𝗢𝗧 𝗡𝗔𝗠𝗘: *_JOE ᴛᴇᴄʜ ʙᴏᴛ_*
 📟 𝗩𝗘𝗥𝗦𝗜𝗢𝗡: *_1.0.0_*
-👤 𝗗𝗘𝗩: *_sɪʀ ʙʀᴜᴄᴇ ʙᴇʀᴀ_*
+👤 𝗗𝗘𝗩: *_sɪʀ JOSEPH MWANGI_*
 📈 *uptime*: *${uptime}*
 🧑‍💻 *ᴜsᴇʀ:* ${pushName} ${pushwish}
 🌐 *ᴍᴏᴅᴇ:* ${mode}
@@ -80,7 +80,7 @@ const test = async (m, Matrix) => {
 
 ━━━━━🌟━━━━━
 
-✨ ʙᴇʀᴀ ᴛᴇᴄʜ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅ ʟɪsᴛ ✨
+✨ JOE ᴛᴇᴄʜ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅ ʟɪsᴛ ✨
 
 ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ᴀᴡᴇsᴏᴍᴇ ᴍᴇɴᴜ
 
@@ -225,11 +225,11 @@ const test = async (m, Matrix) => {
 *🌐 𝗠𝗢𝗥𝗘 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 𝗖𝗢𝗠𝗜𝗡𝗚 𝗦𝗢𝗢𝗡! 🌐
 
 ╭───────────❍
-│😇𝗥𝗘𝗚𝗔𝗥𝗗𝗦 𝗕𝗥𝗨𝗖𝗘 𝗕𝗘𝗥𝗔😇
+│😇𝗥𝗘𝗚𝗔𝗥𝗗𝗦 JOSEPH MWANGI 😇
 ╰───────────❍`;
 
     await Matrix.sendMessage(m.from, {
-      image: fs.readFileSync('./media/popkid.jpg'),
+      image: fs.readFileSync('./media/JOE.jpg'),
       caption: str,
       contextInfo: {
         mentionedJid: [m.sender],
@@ -237,7 +237,7 @@ const test = async (m, Matrix) => {
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '120363290715861418@newsletter',
-          newsletterName: "𝙥𝙤𝙥𝙠𝙞𝙙",
+          newsletterName: "JOE",
           serverMessageId: 143
         }
       }

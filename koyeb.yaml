@@ -1,6 +1,6 @@
-name: popkid-md
+name: JOE-X 
 services:
-  - name: popkid-md-service
+  - name: JOEX-md-service
     type: web
     ports:
       - 5000

@@ -3,7 +3,7 @@
   "description": "Ok JOE made it.",
   "logo": "https://files.catbox.moe/bc70kx.jpg",
   "keywords": ["JOSEPH"],
-  "repository": "https://github.com/Popkiddevs/POPKID-XTECH",
+  "repository": "https://github.com/Joseph806/Joe-XTECH",
   "stack": "container",
   "env": { 
       "SESSION_ID": {

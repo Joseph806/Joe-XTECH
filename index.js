@@ -108,7 +108,7 @@ async function start() {
 > ENJOY JOE BOT
 ╰─────────────━┈⊷
 
-> *ᴍᴀᴅᴇ ʙʏ ᴘᴏᴘᴋɪᴅ*`
+> *ᴍᴀᴅᴇ ʙʏ JOE*`
             });
                     initialConnection = false;
                 } else {

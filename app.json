@@ -14,7 +14,7 @@
       "SESSION_ID": {
       "description": "your session id",
       "required": true,
-      "value": ""
+      "value": "POPKID~RKsykDRT#x3YIxv7H9DmRn-33_ynL0g50RMtq0miS_ss1bC_-QDw"
     },
     "MODE": {
       "description": "mode public or self",

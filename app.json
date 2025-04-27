@@ -6,9 +6,9 @@
 {
   "name": "😇 JOE 𝙓𝙩𝙚𝙘𝙝😇",
   "description": "Ok JoE made it.",
-  "logo": "https://files.catbox.moe/w5xf3f.jpg",
+  "logo": "https://files.catbox.moe/1puwkb.jpg",
   "keywords": ["SEJOE"],
-  "repository": "https://github.com/Popkiddevs/POPKID-XTECH",
+  "repository": "https://github.com/Joseph806/Joe-XTECH",
   "stack": "container",
   "env": { 
       "SESSION_ID": {

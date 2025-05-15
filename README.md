@@ -6,19 +6,19 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=900&color=FF0000&center=true&width=1100&height=150&lines=POPKID-+XTECH+BOT" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=900&color=FF0000&center=true&width=1100&height=150&lines=JOE-+XTECH+BOT" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=POPKID+XTECH+TEAM+;KEEP+USING+POPKID+MD" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=POPKID+XTECH+TEAM+;KEEP+USING+JOEX+MD" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l">
-    <img alt="𝐏𝐎𝐏𝐊𝐈𝐃 𝐗𝐓𝐄𝐂𝐇" height="350" src="https://files.catbox.moe/nzk037.jpg" />
+  <a href="https://whatsapp.com/channel/0029VaiMTRbG8l5JsXcquT1f">
+    <img alt="`JOE` 𝐗𝐓𝐄𝐂𝐇" height="350" src="https://files.catbox.moe/nzk037.jpg" />
   </a>
 </p>
 
@@ -26,7 +26,7 @@
 
 ### ❤️ Fork My Repo
 <p align="center">
-  <a href="https://github.com/Popkiddevs/POPKID-XTECH/fork">
+  <a href="https://github.com/Joseph806/Joe-XTECH/fork">
     <img src="https://img.shields.io/badge/FORK%20REPO-black?style=for-the-badge&logo=porsche&logoColor=white" width="220" height="38.45" />
   </a>
 </p>
@@ -69,4 +69,4 @@
 ---
 
 ## 💖 Contact Me
-[![Whatsapp contact](https://img.shields.io/badge/Contact-Dev%20Popkid-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/+254111385747)
+[![Whatsapp contact](https://img.shields.io/badge/Contact-Dev%20JOEX-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/+254114305147)

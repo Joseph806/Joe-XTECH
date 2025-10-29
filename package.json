@@ -1,12 +1,12 @@
 {
-  "name": "POPKID-MD",
+  "name": "JOE-MD",
   "version": "3.0.0",
-  "description": "A WhatsApp Bot Created By Popkid",
+  "description": "A WhatsApp Bot Created By JOSEPH",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name POPKID-XTECH",
-    "stop": "pm2 stop POPKID-XTECH",
-    "restart": "pm2 restart POPKID-XTECH"
+    "start": "pm2 start index.js --deep-monitoring --attach --name JOE-XTECH",
+    "stop": "pm2 stop JOE-XTECH",
+    "restart": "pm2 restart JOE-XTECH"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "npm:@fizzxydev/baileys-pro@8.5.12",

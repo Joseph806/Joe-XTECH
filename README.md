@@ -1,13 +1,13 @@
-# 🔥 POPKID XTECH – Ultimate WhatsApp Bot
+# 🔥 JOE XTECH – Ultimate WhatsApp Bot
 
 ## 🚨 OFFICIAL CHANNEL NOW LIVE!
 
-[![JOIN OUR WHATSAPP CHANNEL](https://img.shields.io/badge/📲%20JOIN%20OUR%20WHATSAPP%20CHANNEL-00E676?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbB6d0KKAwEdvcgqrH26)
+[![JOIN OUR WHATSAPP CHANNEL](https://img.shields.io/badge/📲%20JOIN%20OUR%20WHATSAPP%20CHANNEL-00E676?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VaiMTRbG8l5JsXcquT1f)
 
 **🟢 Get exclusive updates, early features, and special content**
 
 **⚡ Tap the button above or click this link:**  
-👉 [https://whatsapp.com/channel/0029VbB6d0KKAwEdvcgqrH26](https://whatsapp.com/channel/0029VbB6d0KKAwEdvcgqrH26)
+👉 [https://whatsapp.com/channel/0029VaiMTRbG8l5JsXcquT1f](https://whatsapp.com/channel/0029VaiMTRbG8l5JsXcquT1f)
 
 ---
 
@@ -51,8 +51,8 @@
 
 ## 📞 STEP 5: Contact the Developer
 
-[![CHAT WITH DEV](https://img.shields.io/badge/💬%20CHAT%20WITH%20DEV-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+254111385747)
+[![CHAT WITH Joseph](https://img.shields.io/badge/💬%20CHAT%20WITH%20DEV-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+254114305147)
 
 ---
 
-### 🙏 Thanks for using POPKID XTECH Bot ❤️
+### 🙏 Thanks for using JOE XTECH Bot ❤️

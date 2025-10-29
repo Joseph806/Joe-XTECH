@@ -41,7 +41,7 @@ async (conn, mek, m, { from, reply }) => {
 ┃ ✦ *Name:* ${ownerName}
 ┃ ✦ *Number:* ${ownerNumber}
 ┃ ✦ *Bot Version:* 2.0.0 Beta
-┃ ✦ *Framework:* POPKID XMD
+┃ ✦ *Framework:*JOE XMD
 ┗━━━━━━━━━━━━━━━━━━━━━━┛
 _Contact owner only for important queries._`,
             contextInfo: {
@@ -50,7 +50,7 @@ _Contact owner only for important queries._`,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363290715861418@newsletter',
-                    newsletterName: 'ᴘᴏᴘᴋɪᴅ xᴍᴅ',
+                    newsletterName: 'JOE xᴍᴅ',
                     serverMessageId: 143
                 }
             }

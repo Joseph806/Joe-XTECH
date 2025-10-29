@@ -1,6 +1,6 @@
-name: popkid-xtech
+name: JOE-xtech
 services:
-  - name: popkid-xtech-service
+  - name: JOE-xtech-service
     type: web
     ports:
       - 5000
